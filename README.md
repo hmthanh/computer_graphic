@@ -1,2 +1,3 @@
 # computer_graphic
-Computer Graphic Courses
+Introduction to Computer Graphics and Imaging
+
